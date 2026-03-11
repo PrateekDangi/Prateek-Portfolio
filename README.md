@@ -107,9 +107,9 @@ npm start
 
 Feel free to connect with me:
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/prateekdangi
+- GitHub: https://github.com/PrateekDangi
+- Email: dangiprateek294@gmail.com
 
 ---
 
